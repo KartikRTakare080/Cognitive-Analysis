@@ -38,14 +38,3 @@ NeuroAbacus is an advanced platform designed for the cognitive analysis of abacu
 *   Matplotlib
 *   Joblib
 
-## Prerequisites
-
-Before you begin, ensure you have the following installed on your system:
-
-1.  **Node.js (LTS version) and npm:**
-    *   Download from: https://nodejs.org/en/download/
-    *   **Important:** During installation, ensure "Add to PATH" is selected.
-    *   Verify installation in PowerShell:
-        ```powershell
-        node -v
-        npm -v
